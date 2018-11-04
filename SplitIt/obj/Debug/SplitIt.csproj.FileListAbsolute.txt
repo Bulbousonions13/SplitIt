@@ -1,0 +1,12 @@
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\bin\Debug\SplitIt.exe.config
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\bin\Debug\SplitIt.exe
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\bin\Debug\SplitIt.pdb
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.Properties.Resources.resources
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.csproj.GenerateResource.cache
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.exe
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.pdb
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.csprojAssemblyReference.cache
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.Main.resources
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.CreateFam.resources
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.EditFam.resources
