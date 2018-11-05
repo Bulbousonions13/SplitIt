@@ -29,14 +29,15 @@ namespace SplitIt
             famName = textBox1.Text.ToString();
             numMembers = Int32.Parse(textBox2.Text.ToString());
             String fileName = famName + "_BillFile.txt";
-            Console.WriteLine("Family Name : " + famName);
+            //Console.WriteLine("Family Name : " + famName);
             if (!File.Exists(fileName))
             {
                 StreamWriter writer = new StreamWriter(fileName);
-                writer.Write(famName + Environment.NewLine + numMembers);
+                writer.WriteLine("famName:" + famName); 
+                writer.WriteLine("numMembers:" + numMembers);
                 writer.Close();
                 MessageBox.Show(famName + " Family file succesfully created!");
-                EditFam editFamForm = new EditFam(Main);
+                EditFam editFamForm = new EditFam(Main,fileName, false);
                 editFamForm.Show();
                 this.Close();
             }
@@ -44,6 +45,11 @@ namespace SplitIt
                 MessageBox.Show("This Family file already exists!");
             }
             
+        }
+
+        private void CreateFam_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

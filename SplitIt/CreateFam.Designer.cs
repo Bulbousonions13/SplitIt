@@ -94,6 +94,7 @@
             this.Name = "CreateFam";
             this.Padding = new System.Windows.Forms.Padding(20);
             this.Text = "Create Billing Family";
+            this.Load += new System.EventHandler(this.CreateFam_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

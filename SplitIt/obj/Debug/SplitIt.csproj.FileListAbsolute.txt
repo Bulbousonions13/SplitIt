@@ -10,3 +10,4 @@ C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.cs
 C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.Main.resources
 C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.CreateFam.resources
 C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.EditFam.resources
+C:\Users\edwar\Documents\Visual Studio 2017\SplitIt\SplitIt\obj\Debug\SplitIt.ManageBills.resources
